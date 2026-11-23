@@ -2,7 +2,6 @@
 
 Výzkumná zpráva pro skupinovou práci · stav k 23. 11. 2026
 
-*Citace: zdroj je uveden přímo u každého tvrzení v textu.*
 
 ---
 
@@ -118,10 +117,3 @@ Rychlé AI nástroje navíc umožňují vytvořit kompletně falešnou firmu (n�
 6. **Varujte ostatní** – na fórech a v skupinách, ale bez pomluv, jen s fakty (Exituj.cz: https://exituj.cz/magazin/jak-podat-trestni-oznameni-podvod-s-uctem-socialni-site).
 
 ---
-
-## 6. Otevřené otázky a limity výzkumu
-
-- **České statistiky:** Nenašel jsem souhrnná aktuální data o počtu podvodů a výši škod v ČR (např. výroční zprávy ČOI nebo statistiky Policie ČR o internetových podvodech). Doporučuji je doplnit z webu ČOI (coi.cz) a ze statistik Policie ČR.
-- **Zastaralost dat:** Většina čísel se vztahuje k USA a Velké Británii; v prezentaci je vždy označte zemí a rokem.
-- **Dynamika tématu:** Podvody s AI (deepfaky, hlasové klony) se rychle vyvíjejí – čísla se budou dále měnit.
-- **Jedno-zdrojová tvrzení:** Některá tvrzení vycházejí z jediného zdroje; v prezentaci je označte jako „podle zdroje X“.
